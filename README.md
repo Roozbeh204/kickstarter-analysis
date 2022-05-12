@@ -19,14 +19,4 @@ The analyses clearly depicts that while the rate of success is much higher in Ma
 ### Analysis of Outcomes Based on Goals
 The grapg clearly represents that there is an inverse correlation between the golas and the outcomes.The highe the goal is , the higher the rate of canceled and failed outcomes will become.
 
-### Challenges and Difficulties Encountered
 
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
